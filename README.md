@@ -14,6 +14,9 @@ Don't know much about sex trafficking? That's okay! Here are some resources to l
 <p><a href="http://traffickingresourcecenter.org/sites/default/files/Study%20Estimating%20Online%20Sex%20Customers%20-%20ASU_0.pdf" title="Title">Invisible Offenders - Online Marketplace Activity</a></p>
 <p><a href="http://www.atlanticcouncilpodcasts.org/?p=135">Using Big Data to Fight Human Trafficking</a></p>
 
+###Code of Conduct###
+<i>Delaney to insert Code of Conduct</i>
+
 ###Team Organization###
 Saturday morning, all attendees will hear a brief description on our proposed projects to combat sexual trafficking and exploitation. 
 All attendees are welcome to come with their own project ideas to pitch to the group, or generate new ideas on-site while networking with your peers. 

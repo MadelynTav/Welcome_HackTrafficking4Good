@@ -1,7 +1,8 @@
 # auto_id
-## automated Identification ##
+## Automated Identification ##
 
-<b>Project Background: </b> Police agencies struggle with competing agency priorities with limited resources. Online reverse sting operations yield lower arrest ratios than traditional street stings due to these high agency costs including: officer overtime, rented hotel rooms, and inefficient use of staff time due to incomplete intelligence information. Even though we know that 60-80% of all illegal sex transactions are brokered online, online reverse stings yield smaller average arrest ratios than street stings. More comprehensive sex buyer and pimp profiles will allow officers to refine their operations and target the most violent and most frequent offenders. 
+<b>Challenge:</b> John board sites are web forums where potential and active buyers review prostituted individuals and venues (think a Yelp for paid sex). These portals fuel exploitation and increase society’s normalization of buying sex. They also contain a wealth of information on marketplace trends, buyer / exploiter behavior, illicit activity venues, and connections to victims / trafficked women.
+
 
 <b>Project #1:</b> Develop a comprehensive automated reverse search platform that compares phone numbers to all openly available identification information. This tool would create individual holistic exploiter / sex buyer profiles to be utilized during law enforcement operations. Sources could include: 
 

@@ -47,7 +47,7 @@ Several datasets are available for attendees to manipulate during the hackathon.
 
 
 ###Using our Github###
-Plesae become a member of our Github organization, SocialChange4Good. Once teams self-organize on Saturday, we will have facilitators around the room set you up with your project repo. 
+Once teams self-organize on Saturday, we will have facilitators around the room set you up with your project repo. 
 
 
 ###Final Presentations###

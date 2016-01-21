@@ -1,6 +1,6 @@
 # t100sr
 
-## Top 100 Sex Reviewers ##
+## Review Site Analysis ##
 
 <b>Project Background: </b> “John boards” are sites where prospective and high frequency buyers review individuals and venues  associated with the illegal sex trade (think a Yelp for paid sex). By actively participating in these sites, these buyers move into the category of “promoting” or facilitating the illegal sex marketplace. This is the primary engagement portal for the highest frequency buyers – i.e. those buyers who represent only 5% of the market but account for 50% of all transactions. They are also the source of a disproportionate share of the revenue that fuels the sex trade and attracts traffickers. These sites contain important data to help law enforcement identify the leading facilitators of exploitation while also generating leads to uncover victims / trafficked women.
 

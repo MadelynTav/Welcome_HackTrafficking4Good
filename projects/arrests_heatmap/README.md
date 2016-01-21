@@ -72,7 +72,7 @@ Seattle</a></p>
 </UL> 
 </OL>
 
-<b>Project #2:</b> Develop visualization tolls to display arrest data including a dynamic spatial imaging heat map platform that  can be used to display arrest data compiled from open and closed sources. Create a function that searches results by: size of operation, time and date, type of arrest (i.e., street vs. hotel), demographic data (male, female, sex buyer, exploiter, prostituted individual, etc.). <i>NOTE: We do not endorse shaming any arrested individuals. Please refrain from compiling personal identifiable information such as mugshots, names, and addresses. </i>
+<b>Project #2:</b> Develop visualization tools to display arrest data including a dynamic spatial imaging heat map platform that can be used to display arrest data compiled from open and closed sources. Create a function that searches results by: size of operation, time and date, type of arrest (i.e., street vs. hotel), demographic data (male, female, sex buyer, exploiter, prostituted individual, etc.). <i>NOTE: We do not endorse shaming any arrested individuals. Please refrain from compiling personal identifiable information such as mugshots, names, and addresses. </i>
 
 
 

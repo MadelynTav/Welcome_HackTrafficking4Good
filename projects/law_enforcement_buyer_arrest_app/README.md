@@ -2,7 +2,7 @@
 
 ## Sex Buyer Arrest Application##
 
-<b>Project Background: </b> Law enforcement agencies across the United States deploy several different operating systems for inputting arrest data. Some jurisdictions have robust data collection systems and can easily pull reports in easily transferrable and searchable format. Other agencies are still using paper-based reporting systems. Our law enforcement partners from Cook County have created a paper based form it distributes to partner agencies to collect detailed data on operations and demographics of arrested individuals. Unfortunately, none of this information is automated and every arrest sheet needs to be inputted manually for more in-depth analysis. Our partners are seeking a platform that can upload, store and extract arrest data in diverse formats into a centrally aggregated database that can also be accessed by participating jurisdictions.
+<b>Project Background: </b> Law enforcement agencies across the United States deploy several different operating systems for inputting arrest data. Some jurisdictions have robust data collection systems and can easily pull reports in easily transferrable and searchable format. Other agencies are still using paper-based reporting systems. Our law enforcement partners from Cook County have created a paper based form they distributed to partner agencies to collect detailed data on operations and demographics of arrested individuals. Unfortunately, none of this information is automated and every arrest sheet needs to be inputted manually for more in-depth analysis. Our partners are seeking a platform that can upload, store and extract arrest data in diverse formats into a centrally aggregated database that can also be accessed by participating jurisdictions.
 
 
 <b>Project #1:</b>  Develop a tool for law enforcement officials to input arrest data in real time on their phones. The data could be automatically updated into a centralized database and would be password protected with individual logins for each LE officer and participating jurisdiction.
@@ -26,13 +26,9 @@
 <li> Website Used for Ad Posting (Backpage; Craigslist; Other__) </li>
 </ol>
 
-<b>Platform Expansion Ideas:</b> 
-<ol>
-<li>Create individual profiles for regional agencies</li>
-<li>"Share Arrest Record" feature allowing all participating agencies to coordinate across jurisdictions</li>
-</ol>
+<b>Platform Expansion Ideas:</b> "Share Arrest Record" feature allowing all participating agencies to coordinate across 
 
-<b>Project #2:</b> Create a function that scans existing arrest PDF documents and extracts data  into a centralized database. Analyze the database for any re-occuring trends. 
+<b>Project #2:</b> Create a function that scans existing arrest PDF documents and extracts data  into a centralized database. Analyze the database for any re-occurring trends. 
 
 <b>Project Expansion Ideas:</b> Create a dynamic visual dashboard displaying any key findings.  
 

@@ -8,18 +8,11 @@
 <b>Project #2:</b> Integrate a chat box feature using the platform Twilio to automatically record all conversations within a single database. 
 
 <b<Project Resources:</b>
-<b>Log-level Data For Escort Sites:</b>
-<ol>
-<li>Backpage</li>
-</ol>
+<b>Log-level Data For Escort Sites</b>
 
-<b>Log-level Data for John Board Review Sites: </b>
-<ol>
-<li>USA Sex Guide </li>
-<li>The Erotic Review </li>
-<li>Rubmaps</li>
-<li>Eccie</li>
-</ol>
+
+<b>Log-level Data for John Board Review Sites</b>
+
 
 <b>Log-Level Data Includes:</b>
 <ol>

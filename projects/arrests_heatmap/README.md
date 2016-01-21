@@ -1,10 +1,9 @@
 # ar_heatmap
 
-<b>Project Background: </b> There is no comprehensive system to monitor national sex trafficking and sex buying arrests. Practitioners across the country would benefit from understanding the scope and success of law enforcement activities, specifically monitoring the ratio of arrested prostituted individuals to sex buyers and pimps. 
+<b>Challenge:</b> There is no centralized system that aggregates data collected (but not necessarily publically reported) by service providers, public media reports, diversion programs and law enforcement on arrests associated with the sex trade. Nor is there a system that provides an analysis of the operational details and demographics associated with these individual arrests. Compiling this data would serve the important public policy goal that addresses the need to eliminate the arrest of prostituted persons vs. their exploiters including buyers. Currently individual studies show that the current ratio is 10 victims arrested for every one exploiter. Mining publicly available data sets to aggregate law enforcement operations would be the first national tool of its kind and will help make the case for mandatory disaggregated reporting.
 
-<b>Our Challenge: </b> Scrape publicly available data to aggregate law enforcement operation / arrest information. This would be the first comprehensive tool of its kind mapping all national arrests related to sex trafficking and prostitution.
 
-<b>Project #1:</b>  Compile open source arrest information in the following cities: Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, San Diego, and Seattle. Suggested sources for arrest records: 
+<b>Project #1:</b>  Create a system that compiles open source arrest information in the following cities into separate databases: Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, San Diego, and Seattle. Suggested databases: 
 <OL>
 <LI>Local news alerts
 <UL>
@@ -59,7 +58,7 @@ List Item 7</a></p>
 </UL> 
 </OL>
 
-<b>Project #2:</b> Develop a dynamic spatial imaging heat map platform that displays arrest data. Create a function that searches results by: size of operation, time and date, type of arrest (i.e., street vs. hotel), demographic data (male, female, sex buyer, exploiter, prostituted individual, etc.). <i>NOTE: We do not endorse shaming any arrested individuals. Please refrain from compiling personal identifiable information such as mugshots, names, and addresses. </i>
+<b>Project #2:</b> Develop visualization tolls to display arrest data including a dynamic spatial imaging heat map platform that  can be used to display arrest data compiled from open and closed sources. Create a function that searches results by: size of operation, time and date, type of arrest (i.e., street vs. hotel), demographic data (male, female, sex buyer, exploiter, prostituted individual, etc.). <i>NOTE: We do not endorse shaming any arrested individuals. Please refrain from compiling personal identifiable information such as mugshots, names, and addresses. </i>
 
 
 

@@ -2,14 +2,13 @@
 
 ## City Profiles: Illegal Sex Industry ##
 
-<b>Project Background:</b> 
+<b>Challenge:</b> The uptick in online activity has increased exploiters’ ability to remain anonymous. Practitioners and law enforcement struggle to understand and stay abreast of marketplace trends. Create individual city or township profiles highlighting dynamic marketplace data utilizing information from known escort sites. This tool would provide a comprehensive overview on the illegal commercial sex marketplace within a designated geographic area.
 
-<b>Project Summary:</b> Create individual city or township profiles highlighting dynamic marketplace data and trends utilizing information from known escort sites.  This tool would provide a comprehensive overview on the illegal commercial sex marketplace within a designated geographic area.
 
 <b>Project #1:</b> Create an individual dashboard profile for the city of Boston displaying: 
 
 <ol>
-<li>Marketplace trends</li>
+<li>Escort site trends</li>
 <li>Search volume</li> 
 <li>Top keyword searches </li>
 <li>Exploiter demographic information (age, employment, marital status)</li> 
@@ -27,7 +26,7 @@
 <li>Erotic Mug Shots</li>
 </ol>
 
-<b>Aggregated Data for John Board Review Sites:</b> 
+<b>Aggregated Data for Review Sites:</b> 
 <ol>
 <li>USA Sex Guide </li>
 <li>The Erotic Review </li>
@@ -99,7 +98,7 @@
 
 <li>Market Research Data</li>
 <ul>
-<li>A common data collection technique for law enforcement agencies and practitioners is to post decoy ads on escort sites and collect log the incoming phone numbers requesting additional information. Throughout this process, the CEASE Network practitioners have collected nearly 10,000+ potential sex buyer and pimp phone numbers. This data was sent to a market research firm to aggregate demographic information for each number. This dataset reflects that demographic data, and <b>does not include individual phone numbers.</b></li>
+<li>A common data collection technique for law enforcement agencies and practitioners is to post decoy ads on escort sites and collect log the incoming phone numbers requesting additional information. Throughout this process, our practitioners have collected nearly 10,000+ exploiter phone numbers. This data was sent to a market research firm to aggregate demographic information for each number. This dataset reflects that demographic data, and <b>does not include individual phone numbers.</b></li>
 
 
 </ol>

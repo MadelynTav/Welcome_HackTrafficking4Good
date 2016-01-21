@@ -7,11 +7,12 @@
 
 <b>Project #2:</b> Integrate a chat box feature using the platform Twilio to automatically record all conversations within a single database. 
 
-<b<Project Resources:</b>
-<b>Log-level Data For Escort Sites</b>
+<b>Project Resources:</b>
+
+<ul>Log-level Data For Escort Sites</ul>
 
 
-<b>Log-level Data for John Board Review Sites</b>
+<ul>Log-level Data for John Board Review Sites</ul>
 
 
 <b>Log-Level Data Includes:</b>

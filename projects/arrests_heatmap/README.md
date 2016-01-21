@@ -13,7 +13,7 @@ Atlanta</a></p>
 Boston</a></p>
 <LI><p><a href="https://twitter.com/chicago_police">
 Chicago</a></p>
-<LI><p><https://twitter.com/DallasPD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+<LI><p><a href="https://twitter.com/DallasPD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
 Dallas</a></p>
 <LI><p><a href="https://twitter.com/DenverPolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
 Denver</a></p>

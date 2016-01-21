@@ -1,11 +1,11 @@
 # auto_id
-## Automated Identification ##
+##Reverse Search##
 
-<b>Challenge:</b> “John boards” are sites where prospective and high frequency buyers review individuals and venues  associated with the illegal sex trade (think a Yelp for paid sex). By actively participating in these sites, these buyers move into the category of “promoting” or facilitating the illegal sex marketplace. This is the primary engagement portal for the highest frequency buyers – i.e. those buyers who represent only 5% of the market but account for 50% of all transactions. They are also the source of a disproportionate share of the revenue that fuels the sex trade and attracts traffickers. These sites contain important data to help law enforcement identify the leading facilitators of exploitation while also generating leads to uncover victims / trafficked women.
+<b>Challenge:</b> Because of the increased anonymity the internet provides exploiters, it is becoming increasingly difficult to understand the profile of those who fuel exploitation. Law enforcement agencies and practitioners would greatly benefit from a platform that could aggregate all open source information in order to refine their operations and understand marketplace trends. 
 
 
 
-<b>Project #1:</b> Develop a comprehensive automated reverse search platform that compares phone numbers to all openly available identification information. This tool would create individual holistic exploiter / sex buyer profiles to be utilized during law enforcement operations. Sources could include: 
+<b>Project #1:</b> Develop a comprehensive automated reverse search platform that compares phone number data to all openly available identification information. This tool would create individual holistic exploiter profiles allowing agencies and practitioners to refine their tactics to stop exploitation. Possible open source information platforms could include: 
 
 <ol>
 <li>Social media accounts (demographic data, common usernames, preferences, interests, etc.) </li> 
@@ -16,9 +16,5 @@
 
 <i>Disclaimer: We do not encourage teams to investigate known illegal activity or suspected individuals.</i>
 
-<b>Project #2:</b> Create a database platform that automatically syncs to known relationship tracking systems (i.e., Salesforce) for comprehensive data management. 
+<b>Project #2:</b> Create a database platform that would generate a profile based on other additional inputs including: dating site screen names, IP addresses, etc. 
 
-<b>Project Resources:</b>
-<ol>
-<li><p><a href="http://www.whitepages.com/">White Pages</a></p></li>
-</ol>

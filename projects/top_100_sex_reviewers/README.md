@@ -2,9 +2,10 @@
 
 ## Top 100 Sex Reviewers ##
 
-<b>Project Background: </b> John board sites, also known as sex buyer review sites, are web forums where potential and active buyers review prostituted individuals and venues (think a Yelp for paid sex). These portals contain a wealth of information on marketplace trends, buyer / exploiter behavior, illicit activity venues, and connections to victims / trafficked women. 
+<b>Project Background: </b> “John boards” are sites where prospective and high frequency buyers review individuals and venues  associated with the illegal sex trade (think a Yelp for paid sex). By actively participating in these sites, these buyers move into the category of “promoting” or facilitating the illegal sex marketplace. This is the primary engagement portal for the highest frequency buyers – i.e. those buyers who represent only 5% of the market but account for 50% of all transactions. They are also the source of a disproportionate share of the revenue that fuels the sex trade and attracts traffickers. These sites contain important data to help law enforcement identify the leading facilitators of exploitation while also generating leads to uncover victims / trafficked women.
 
-<b>Project #1:</b> Create a profiling tool that analyzes the most frequent reviewers on popular sex buyer review sites including: 
+
+<b>Project #1:</b> Create a profiling tool that analyzes the most frequent reviewers on popular sex buyer review sites capturing
 
 <ol>
 <li>Rubmaps </li>
@@ -29,17 +30,16 @@ Data collection and analysis would include:
 <li>Delineation of posts/reviews by direct reviews or ongoing conversations between revewiers</li>
 </ol>
 
-<b>Project #2</b> Utilizing provided screen names of the top 100 posters on The Erotic Review, analyze their blog posts and direct chatter. Develop a visual social networking tool depicting the relationship between higheset frequency buyers and their: 
+<b>Project #2</b> Utilizing provided screen names of the top 100 posters on a selected site, analyze their blog posts and direct chatter. Develop a visual social networking tool depicting the relationship between higheset frequency buyers and their: 
 <ol>
-<li>Buying preferences (i.e., location, time, buying frequency, etc.)</li>
-<li>Preferred venues</li>  
+<li>Buying preferences (i.e., type of location, time, buying frequency, etc.)</li>
+<li>Preferred venues and providers</li>  
 <li>Relationships with other review site users</li>
-<li>Relationships with known providers</li>
 </ol>
 
 <b>Project Resources:</b>
 
-<b>Aggregated Data for John Board Review Sites:</b> 
+<b>Aggregated Data for Review Sites:</b> 
 <ol>
 <li>USA Sex Guide </li>
 <li>The Erotic Review </li>
@@ -66,7 +66,7 @@ Data collection and analysis would include:
 <li> Source (Eccie, The Erotic Review, USA Sex Guide) </li></ul>
 </ol>
 
-<b>Log-level Data for John Board Review Sites: </b>
+<b>Log-level Data for Review Sites: </b>
 <ol>
 <li>USA Sex Guide </li>
 <li>The Erotic Review </li>
@@ -99,7 +99,7 @@ Data collection and analysis would include:
 
 <ol>
 
-<li>The Erotic Review Top 100 Posters </li>
+<li>Top 100 Posters </li>
 <li><a href="https://gephi.org/">Gephi</a></li>
 <li><a href="https://github.com/Berico-Technologies/CLAVIN">CLAVIN</a></li>
 <li><a href="https://github.com/rkuykendall/map-world-news">Sentiment Analysis</a></li>

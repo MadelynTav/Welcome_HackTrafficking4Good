@@ -15,7 +15,16 @@ Don't know much about sex trafficking? That's okay! Here are some resources to l
 <p><a href="http://www.atlanticcouncilpodcasts.org/?p=135">Using Big Data to Fight Human Trafficking</a></p>
 
 ###Code of Conduct###
-<i>Delaney to insert Code of Conduct</i>
+Everyone who attendees will have to sign a developer agreement. If you would like to see a copy of that before the event, please email <a href="mailto:delaney_workman@huntalternatives.org" title="Title">Delaney</a>. In addition to the developer agreement, we have a few guiding principles for the weekend: 
+
+<ol>
+<li>Avoid the Batman Complex - don’t do anything illegal.</li>
+<li>You might see some nasty stuff. If you ever feel uncomfortable, please come find us. </li>
+<li>Please do not try to identify individual exploiters.</li>
+<li>Be nice to everyone.</li>
+<li>A serious topic should be taken seriously…but let’s still have fun. </li>
+</ol>
+
 
 ###Team Organization###
 Saturday morning, all attendees will hear a brief description on our proposed projects to combat sexual trafficking and exploitation. 
@@ -26,47 +35,21 @@ Each team will designate a representative to conduct a 5 minute demontration of 
 We recommend ensuring a variety of expertise is represented on each team. 
 
 
+###Projects###
+We will be pitching 8 different challenges to attendees. <b>Each challenge description is listed in a separate folder within this repository.</b> Please review the projects and contact us if you have any questions. 
+
+We will also provide the opportunity to people to pitch their own project ideas. We encourage new ideas and added creativity!
+
 ###Accessing Datasets###
-Several datasets are available for attendees to manipulate during the hackathon. Please see below for login details to access the information:
-
-<b>Dropbox:</b>
-To download, please click here to access all available datasets. 
-Available datasets include: 
-<ol>
-<li>Keyword Search Data</li>
-<li>Market Research Data for Decoy Ad Numbers</li>
-<li>Anonymous Arrest Records</li>
-<li>Online Ad Campaign Analytics</li>
-</ol>
-
-<b>Amazon Web Services</b>
-To access our scraped data, please click here. 
-Available data includes: 
-
-<b>Escort Sites:</b>
-<ol>
-
-<li>Backpage</li>
-<li>CityVibe</li> 
-<li>Erotic Mug Shots</li>
-</ol>
-
-<b>John Board Review Sites:</b> 
-<ol>
-<li>USA Sex Guide </li>
-<li>The Erotic Review </li>
-<li>Rubmaps</li>
-<li>Eccie</li>
-
-</ol>
+Several datasets are available for attendees to manipulate during the hackathon. We will provide an overview of this data on Saturday morning. 
 
 
 ###Using our Github###
-<i>Justin to insert rules of the road</i>
+Plesae become a member of our Github organization, SocialChange4Good. Once teams self-organize on Saturday, we will have facilitators around the room set you up with your project repo. 
 
 
 ###Final Presentations###
-At the end of Sunday, each designated team captain will be responsible for providing a 5 minute demonstration to our panel of judges, followed by 3 minutes of Q&A.
+At the end of Sunday, each designated team captain will be responsible for providing a 5 minute demonstration to our panel of judges, followed by 2 minutes of Q&A.
 Below are some helpful tools and resources for making a great demo: 
 
 <p><a href="http://www.google.com/slides/about/" title="Title">Google Slides</a></p>

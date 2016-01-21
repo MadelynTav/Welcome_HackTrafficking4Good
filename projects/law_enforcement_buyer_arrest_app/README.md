@@ -42,8 +42,7 @@
 <b>Project Resources:</b>
 
 <ol>
-<li>Arrest Data</li>
-<LI>Every year there are coordinated reverse sting operations across the United States, with involvement in over 35 different participating law enforcement agencies. We have PDF arrest records from these operations donated by participating agencies. The most recent sting, which resulted in over 500 arrests, has been manually transcribed for data analysis.</li>
+<li>Arrest Data: Every year there are coordinated reverse sting operations across the United States, with involvement in over 35 different participating law enforcement agencies. We have PDF arrest records from these operations donated by participating agencies. The most recent sting, which resulted in over 500 arrests, has been manually transcribed for data analysis.</li>
 
 <li>List of Criteria (<i>above</i>)</li>
 </ol>

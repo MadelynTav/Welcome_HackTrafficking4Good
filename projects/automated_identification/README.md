@@ -1,7 +1,7 @@
 # auto_id
 ##Reverse Search##
 
-<b>Challenge:</b> Because of the increased anonymity the internet provides exploiters, it is becoming increasingly difficult to understand the profile of those who fuel exploitation. Law enforcement agencies and practitioners would greatly benefit from a platform that could aggregate all open source information in order to refine their operations and understand marketplace trends. 
+<b>Challenge:</b> Because of the increased anonymity the internet provides exploiters, it is becoming more difficult to understand the profile of those who fuel exploitation. Law enforcement agencies and practitioners would greatly benefit from a platform that could aggregate all open source information in order to refine their operations and understand marketplace trends. 
 
 
 

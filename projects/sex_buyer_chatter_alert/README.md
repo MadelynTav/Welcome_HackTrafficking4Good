@@ -1,22 +1,15 @@
 # sb_chatalert
 
-## Sex Buyer Chatter Alert ##
+## Chatter Alert John Boards ##
 
-<b>Project Background
+<b>Challenge:</b> Law enforcement and their allies working to end illegal commercial sexual exploitation do not yet know what tactics are most effective in disrupting the trade. One indicator of success is when a tactic is highlighted on the “john boards” (review sites) alerting pimps, traffickers and prospective buyers. This project will help which tactics are effective or when a tactic has been exposed and will no longer be effective.
 
-<b>Project Summary:</b> Similar to a Google Media Alert system, create an alert system that mines john board review sites for specific keywords including: public awareness campaigns and key stakeholders.
-
-<b>Priority:</b>  The data collection would be searchable by keyword, geographic area, or by commentator.
-
-<b>Platform Expansion:</b> This tool could also notify information on “made” ads and law enforcement operations.
+<b>Project:</b> Similar to a Google Media Alert System, this project would develop a tool that would search frequently scraped data from “john board” sites for a pre-described list of keywords, and automate notifications to practitioners and law enforcement officers when their activities or stakeholders are being referenced. Data collection could be searchable by keyword, geographic area, or by commentator username. 
 
 <b>Project Resources:</b>
 <ol>
 <li>Sample keyword list</li>
-<li>USA Sex Guide</li>
-<li>The Erotic Reviedw</li>
-<li>Rubmaps</li>
-<li></li>
+<li>Review Site data</li>
 </ol>
 
 

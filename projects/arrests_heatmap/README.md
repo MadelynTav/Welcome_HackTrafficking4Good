@@ -5,56 +5,70 @@
 
 <b>Project #1:</b>  Create a system that compiles open source arrest information in the following cities into separate databases: Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, San Diego, and Seattle. Suggested databases: 
 <OL>
-<LI>Local news alerts
+<LI>Police Twitter Accounts
 <UL>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 1</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 2</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 3</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 4</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 5</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 6</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 7</a></p>
+<LI><p><a href="https://twitter.com/Atlanta_Police?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Atlanta</a></p>
+<LI><p><a href="https://twitter.com/bostonpolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+Boston</a></p>
+<LI><p><a href="https://twitter.com/chicago_police">
+Chicago</a></p>
+<LI><p><https://twitter.com/DallasPD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Dallas</a></p>
+<LI><p><a href="https://twitter.com/DenverPolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Denver</a></p>
+<LI><p><a href="https://twitter.com/houstonpolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Houston</a></p>
+<LI><p><a href="https://twitter.com/oaklandpoliceca?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Oakland</a></p>
+<LI><p><a href="https://twitter.com/phoenixpolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Phoenix</a></p>
+<LI><p><a href="https://twitter.com/PortlandPolice?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Portland</a></p>
+<LI><p><a href="https://twitter.com/SanDiegoPD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+San Diego</a></p>
+<LI><p><a href="https://twitter.com/SeattlePD?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" title="Title">
+Seattle</a></p>
 </UL>
 <LI>Public Complaint Platforms
 <UL>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 1</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 2</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 3</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 4</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 5</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 6</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 7</a></p>
+<LI><p><a href="http://acrbgov.org/complaints-reviewed/" title="Title">
+Atlanta</a></p>
+<LI><p><a href="http://www.cityofboston.gov/images_documents/COOP%202014%20Annual%20Report%5B1%5D_tcm3-50903.pdf" title="Title">
+Boston</a></p>
+<LI><p><a href="https://portal.chicagopolice.org/portal/page/portal/ClearPath/Communities/Crime_Alerts" title="Title">
+Chicago</a></p>
+<LI><p><a href="http://www.dallaspolice.net/publicdata/offense-search.html" title="Title">
+Dallas</a></p>
+<LI><p><a href="http://web6.seattle.gov/mnm/incidentresponse.aspx" title="Title">
+Seattle</a></p>
 </UL> 
 <LI>Open Source Pubic Arrest Data
 <UL>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 1</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 2</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 3</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 4</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 5</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 6</a></p>
-<LI><p><a href="http://www.fulcrumapp.com/" title="Title">
-List Item 7</a></p>
+<LI><p><a href="http://www.atlantapd.org/pdf/uniform-crime-reports/E3E0F499-C22A-40FC-A7DF-D5058AD5B59A.pdf" title="Title">
+Atlanta</a></p>
+<LI><p><a href="http://www.atlantapd.org/crimedatadownloads.aspx" title="Title">
+Atlanta Crime Statistics</a></p>
+<LI><p><a href="https://data.cityofboston.gov/Public-Safety/Crime-Incident-Reports/7cdf-6fgx" title="Title">
+Boston Crime Inicident Report</a></p>
+<LI><p><a href="http://www.chicagopolice.org/ps/" title="Title">
+Chicago Police Records</a></p>
+<LI><p><a href="https://www.dallasopendata.com/Police/75219/ki94-jaz4" title="Title">
+Dallas</a></p>
+<LI><p><a href="https://www.denvergov.org/content/denvergov/en/police-department/crime-information/crime-map.html" title="Title">
+Denver</a></p>
+<LI><p><a href="http://htowntx.com/category/arrests/" title="Title">
+Houston Arrest Log</a></p>
+<LI><p><a href="http://www.crimemapping.com/map.aspx?aid=aabb6970-e7b7-4ce2-b155-cf04843f1625" title="Title">
+Oakland Crime Mapping</a></p>
+<LI><p><a href="https://www.phoenix.gov/policesite/Documents/ucr_monthly_2015.pdf" title="Title">
+Phoenix</a></p>
+<LI><p><a href="https://www.crimereports.com/map/index/?search=Portland,%20OR">
+Portland</a></p>
+<LI><p><a href="https://www.crimereports.com/map/index/?search=SanDiego,%20CA" title="Title">
+San Diego</a></p>
+<LI><p><a href="http://web6.seattle.gov/mnm/policereports.aspx" title="Title">
+Seattle</a></p>
 </UL> 
 </OL>
 

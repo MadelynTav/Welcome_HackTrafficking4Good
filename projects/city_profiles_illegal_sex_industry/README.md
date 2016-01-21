@@ -18,23 +18,10 @@
 
 ###<b>Project Resources:</b>###
 
-<b>Aggregated Data For Escort Sites:</b>
-<ol>
+<b>Aggregated Data For Escort and Review Sites</b>
 
-<li>Backpage</li>
-<li>CityVibe</li> 
-<li>Erotic Mug Shots</li>
-</ol>
 
-<b>Aggregated Data for Review Sites:</b> 
-<ol>
-<li>USA Sex Guide </li>
-<li>The Erotic Review </li>
-<li>Eccie</li>
-
-</ol>
-
-<b>Aggregated Data Includes:</b>
+Aggregated Data Includes:
 <ol>
 <li>Metrics</li>
 <ul>
@@ -55,20 +42,9 @@
 <li>City (backpage and cityvibe and eroticmugshots only) – the data can be aggregated for the 11 Demand Abolition cities (Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, Seattle, San Diego)</li></ul>
 </ol>
 
-<b>Log-level Data For Escort Sites:</b>
-<ol>
-<li>Backpage</li>
-</ol>
+<b>Log-level Data For Escort and Review Sites:</b>
 
-<b>Log-level Data for John Board Review Sites: </b>
-<ol>
-<li>USA Sex Guide </li>
-<li>The Erotic Review </li>
-<li>Rubmaps</li>
-<li>Eccie</li>
-</ol>
-
-<b>Log-Level Data Includes:</b>
+Log-Level Data Includes:
 <ol>
 <li>Metrics</li>
 <li>guid</li>

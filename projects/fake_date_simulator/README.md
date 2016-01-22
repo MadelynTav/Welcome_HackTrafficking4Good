@@ -1,11 +1,18 @@
 # convo_sim
-##Conversation Simulator##
 
-#Challenge: Law enforcement agencies are strapped for resources and time to conduct reverse sting operations. Text messaging is becoming a popular tool for exploiters to communicate with those advertised on escort ads. Creating a chat bot simulation would save law enforcement time and possibly extract information and evidence in an automated way. 
+## Conversation Simulator
 
-#Project #1: Create a chat bot that can carry out a conversation with potential sex buyers, over SMS, and extract incriminating information before being exposed.
+### Challenge:
 
-#Project #2: Integrate the chat bot with the platform Twilio, to automate the recording of all conversations in a centralized database. 
+Law enforcement agencies are strapped for resources and time to conduct reverse sting operations. Text messaging is becoming a popular tool for exploiters to communicate with those advertised on escort ads. Creating a chat bot simulation would save law enforcement time and possibly extract information and evidence in an automated way. 
+
+### Project #1:
+
+Create a chat bot that can carry out a conversation with potential sex buyers, over SMS, and extract incriminating information before being exposed.
+
+### Project #2:
+
+Integrate the chat bot with the platform Twilio, to automate the recording of all conversations in a centralized database. 
 
 
 <b>Project Resources:</b>

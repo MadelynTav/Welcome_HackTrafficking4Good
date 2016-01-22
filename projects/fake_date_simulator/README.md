@@ -23,7 +23,7 @@ Integrate the chat bot with the platform Twilio, to automate the recording of al
 <ul>Log-level Data for John Board Review Sites</ul>
 
 
-<b>Log-Level Data Includes:</b>
+##### Log-Level Data Includes:
 <ol>
 <li>Metrics</li>
 <li>guid</li>
@@ -43,7 +43,8 @@ Integrate the chat bot with the platform Twilio, to automate the recording of al
 <li>timezone_offset – difference between UTC and the local time zone</li>
 </ol>
 
-<b>Additional Resources Include:</b>
+##### Additional Resources Include:
+
 <li>Real sample text conversations</li>
 <li><p><a href="https://github.com/jsxc/jsxc">JSXC</a></p></li>
 <li><p><a href="https://www.twilio.com/">Twilio</a></p></li>

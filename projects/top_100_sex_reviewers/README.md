@@ -9,10 +9,10 @@
 
 Data collection and analysis would include:
 <ol>
-<li>Top reviewers by screenname</li>
+<li>Top reviewers by screen name</li>
 <li>Most reviewed venues</li>
-<li>Chat logs searchable by screenname</li>
-<li>Delineation of posts/reviews by direct reviews or ongoing conversations between revewiers</li>
+<li>Chat logs searchable by scree nname</li>
+<li>Delineation of posts/reviews by direct reviews or ongoing conversations between reviewers</li>
 </ol>
 
 <b>Project #2</b> Utilizing provided screen names of the top 100 posters on a selected site, analyze their blog posts and direct chatter. Develop a visual social networking tool depicting the relationship between higheset frequency buyers and their: 
@@ -42,7 +42,7 @@ Includes:
 <ul>
 <li> Month (2014-11 to 2015-10) – the data can be aggregated by month</li></ul>
 <ul>
-<li> Source (Eccie, The Erotic Review, USA Sex Guide) </li></ul>
+<li> Source </li></ul>
 </ol>
 
 <b>Log-level Data for Review Sites: </b>
@@ -52,7 +52,7 @@ Includes:
 <li>Metrics</li>
 <li>guid</li>
 <li>creation_date – this includes the creation date and the time</li>
-<li>source (e.g, backpage, cityvibe, etc)</li>
+<li>source</li>
 <li>url</li>
 <li>title</li>
 <li>text – the content of the ad/post</li>

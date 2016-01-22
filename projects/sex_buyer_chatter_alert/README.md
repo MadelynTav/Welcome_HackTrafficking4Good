@@ -31,7 +31,9 @@ Includes:
 <ul>
 <li> Month (2014-11 to 2015-10) – the data can be aggregated by month</li></ul>
 <ul>
-<li> Source (Eccie, The Erotic Review, USA Sex Guide) </li></ul>
+<li> Source</li></ul>
+<ul>
+<li>City</li></ul>
 </ol>
 
 <b>Log-level Data for Review Sites:</b>
@@ -41,7 +43,7 @@ Includes:
 <li>Metrics</li>
 <li>guid</li>
 <li>creation_date – this includes the creation date and the time</li>
-<li>source (e.g, backpage, cityvibe, etc)</li>
+<li>source</li>
 <li>url</li>
 <li>title</li>
 <li>text – the content of the ad/post</li>

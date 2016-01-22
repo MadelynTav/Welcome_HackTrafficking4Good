@@ -31,7 +31,7 @@ Everyone who attends will have to sign a developer agreement. If you would like 
 ###Team Organization###
 Saturday morning, all attendees will hear a brief description on our proposed projects to combat sexual trafficking and exploitation. 
 All attendees are welcome to come with their own project ideas to pitch to the group, or generate new ideas on-site while networking with your peers. 
-Each team will have an assigned point person assigned to answer any questions related to content or available data sets. 
+Each team will have a point person assigned to answer any questions related to content or available data sets. 
 Team registrations will be capped at 10 individuals in order to facilitate productive conversations and project development. 
 Each team will designate a representative to conduct a 5 minute demonstration of your final project at the end of the event. 
 We recommend ensuring a variety of expertise is represented on each team. 

@@ -17,7 +17,7 @@ Don't know much about sex trafficking? That's okay! Here are some resources to l
 
 
 ###Code of Conduct###
-Everyone who attendees will have to sign a developer agreement. If you would like to see a copy of that before the event, please email <a href="mailto:delaney_workman@huntalternatives.org" title="Title">Delaney</a>. In addition to the developer agreement, we have a few guiding principles for the weekend: 
+Everyone who attends will have to sign a developer agreement. If you would like to see a copy of that before the event, please email <a href="mailto:delaney_workman@huntalternatives.org" title="Title">Delaney</a>. In addition to the developer agreement, we have a few guiding principles for the weekend: 
 
 <ol>
 <li>Avoid the Batman Complex - don’t do anything illegal.</li>

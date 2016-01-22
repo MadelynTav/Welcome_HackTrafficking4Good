@@ -15,7 +15,7 @@ Create a chat bot that can carry out a conversation with potential sex buyers, o
 Integrate the chat bot with the platform Twilio, to automate the recording of all conversations in a centralized database. 
 
 
-<b>Project Resources:</b>
+#### Project Resources:
 
 <ul>Log-level Data For Escort Sites</ul>
 

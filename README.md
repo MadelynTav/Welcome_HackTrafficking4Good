@@ -33,14 +33,14 @@ Saturday morning, all attendees will hear a brief description on our proposed pr
 All attendees are welcome to come with their own project ideas to pitch to the group, or generate new ideas on-site while networking with your peers. 
 Each team will have an assigned point person assigned to answer any questions related to content or available data sets. 
 Team registrations will be capped at 10 individuals in order to facilitate productive conversations and project development. 
-Each team will designate a representative to conduct a 5 minute demontration of your final project at the end of the event. 
+Each team will designate a representative to conduct a 5 minute demonstration of your final project at the end of the event. 
 We recommend ensuring a variety of expertise is represented on each team. 
 
 
 ###Projects###
 We will be pitching 8 different challenges to attendees. <b>Each challenge description is listed in a separate folder within this repository.</b> Please review the projects and contact us if you have any questions. 
 
-We will also provide the opportunity to people to pitch their own project ideas. We encourage new ideas and added creativity!
+We will also provide the opportunity for people to pitch their own project ideas. We encourage new ideas and added creativity!
 
 ###Accessing Datasets###
 Several datasets are available for attendees to manipulate during the hackathon. We will provide an overview of this data on Saturday morning. 

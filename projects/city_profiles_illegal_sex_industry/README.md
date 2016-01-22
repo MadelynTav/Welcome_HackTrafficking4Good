@@ -37,9 +37,9 @@ Aggregated Data Includes:
 <ul>
 <li> Month (2014-11 to 2015-10) – the data can be aggregated by month</li></ul>
 <ul>
-<li> Source (backpage, cityvibe, eroticmugshots, eccie, theeroticreview, usasexguide) </li></ul>
+<li> Source </li></ul>
 <ul>
-<li>City (backpage and cityvibe and eroticmugshots only) – the data can be aggregated for the 11 Demand Abolition cities (Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, Seattle, San Diego)</li></ul>
+<li>City (Atlanta, Boston, Chicago, Dallas, Denver, Houston, Oakland, Phoenix, Portland, Seattle, San Diego)</li></ul>
 </ol>
 
 <b>Log-level Data For Escort and Review Sites:</b>
@@ -49,7 +49,7 @@ Log-Level Data Includes:
 <li>Metrics</li>
 <li>guid</li>
 <li>creation_date – this includes the creation date and the time</li>
-<li>source (e.g, backpage, cityvibe, etc)</li>
+<li>source</li>
 <li>url</li>
 <li>title</li>
 <li>text – the content of the ad/post</li>

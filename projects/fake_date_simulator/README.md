@@ -1,13 +1,21 @@
 # convo_sim
-##Conversation Simulator##
 
-<b>Challenge:</b> Law enforcement agencies are strapped for resources and time to conduct reverse sting operations. Text messaging is becoming a popular tool for exploiters to communicate with those advertised on escort ads. Creating a chat bot simulation would save law enforcement time and possibly extract information and evidence in an automated way. 
+## Conversation Simulator
 
-<b>Project #1:</b> Use natural language processing to simulate automated text message conversations between law enforcement officials and potential sex buyers. This would include the integration of language from a decoy ad placement. 
+### Challenge:
 
-<b>Project #2:</b> Integrate a chat box feature using the platform Twilio to automatically record all conversations within a single database. 
+Law enforcement agencies are strapped for resources and time to conduct reverse sting operations. Text messaging is becoming a popular tool for exploiters to communicate with those advertised on escort ads. Creating a chat bot simulation would save law enforcement time and possibly extract information and evidence in an automated way. 
 
-<b>Project Resources:</b>
+### Project #1:
+
+Create a chat bot that can carry out a conversation with potential sex buyers, over SMS, and extract incriminating information before being exposed.
+
+### Project #2:
+
+Integrate the chat bot with the platform Twilio, to automate the recording of all conversations in a centralized database. 
+
+
+#### Project Resources:
 
 <ul>Log-level Data For Escort Sites</ul>
 
@@ -15,7 +23,7 @@
 <ul>Log-level Data for John Board Review Sites</ul>
 
 
-<b>Log-Level Data Includes:</b>
+##### Log-Level Data Includes:
 <ol>
 <li>Metrics</li>
 <li>guid</li>
@@ -35,7 +43,8 @@
 <li>timezone_offset – difference between UTC and the local time zone</li>
 </ol>
 
-<b>Additional Resources Include:</b>
+##### Additional Resources Include:
+
 <li>Real sample text conversations</li>
 <li><p><a href="https://github.com/jsxc/jsxc">JSXC</a></p></li>
 <li><p><a href="https://www.twilio.com/">Twilio</a></p></li>

@@ -1,0 +1,16 @@
+﻿Server ChatScript Version 5.9  64 bit MACH compiled Dec 23 2015 11:11:53
+Params:   dict:720895 fact:800000 text:35000kb hash:50000 
+          buffer:22x80kb cache:1x50kb userfacts:100
+Build0:  dict=69079  fact=131351  dtext=1164632 stext=0 Dec14'15-17:16:19 0.txt
+Build1:  dict=43  fact=15  dtext=2584 stext=206040 Dec14'15-17:16:33 harry.txt
+Used 50MB: dict 270,239 (25942kb) hashdepth 17/7 fact 217,036 (8681kb) text 14366kb
+           buffer (1760kb) cache (50kb) POS: 915 (29kb)
+Free 43MB: dict 450,656 hash 930 fact 582,964 text 20,633KB 
+
+    *** Server WIDE OPEN to :command use.
+    Postgres disabled.
+
+
+======== Began server 5.9 compiled Dec 23 2015 11:11:53 on port 1024 at Wed Dec 23 16:12:07 2015 serverlog:1 userlog: 1
+Server ready - logfile:LOGS/serverlog1024.txt serverLog:1 userLog:1
+
